@@ -8,5 +8,5 @@ WWAPI Watson Workspace API Wrapper
     feature requests and reviews are subject to the OpenNTF Terms of Use - available at 
     http://openntf.org/Internal/home.nsf/dx/Terms_of_Use.
 
-##Issues##
+## Issues Tracking ##
 Report Issues here: [JIRA](https://jira.openntf.org/secure/RapidBoard.jspa?rapidView=22&projectKey=WWAPI&view=planning.nodetail "Report Issues") 
